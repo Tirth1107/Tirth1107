@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tirth</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
+<h4 align="center">Founder And Ceo At Thenn.in</h3>
+
+- Thenn Tech's Website : <a href="thenn.in">thenn.in</a>
 
 - 🔭 I’m currently working on **Hyde Ecosystems**
 
@@ -7,7 +10,9 @@
 
 - 🤝 I’m looking for help with **Hyde Browser**
 
-- 📫 How to reach me **joshitirth1107@gmail.com**
+- 📫 How to reach me **tirthjoshi@thenn.in**
+
+- 📫 My Other Mail **joshitirth1107@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
