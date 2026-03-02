@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tirth</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<h4 align="center">Founder And Ceo At <a href="http://thenn.in/"></a></h3>
+<h4 align="center">Founder And Ceo At <a href="http://thenn.in/">Thenn.in</a></h3>
 
 - Thenn Tech's Website : <a href="[thenn.in](http://thenn.in/)">thenn.in</a>
 
