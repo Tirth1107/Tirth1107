@@ -1,136 +1,201 @@
 <div align="center">
 
-# 👋 Hey, I'm Tirth Joshi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff88&height=180&section=header&text=TIRTH%20JOSHI&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Builder%20%7C%20CTO%20%7C%20Founder%20%7C%20Developer&descAlignY=60&descSize=18" />
 
-### Full-Stack Developer · Builder · Founder
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+from+India;CTO+%40+Gamify+IAS;Founder+%40+Thenn.in;Building+the+Hyde+Ecosystem;Open+Source+%7C+Product+%7C+Design;Currently+turning+ideas+into+software..." />
+
+<br/>
 
 <a href="https://thenn.in">
-  <img src="https://img.shields.io/badge/Founder-Thenn.in-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/FOUNDER-Thenn.in-00ff88?style=for-the-badge&logoColor=black" />
 </a>
-<a href="https://github.com/Hyde-Open-Source">
-  <img src="https://img.shields.io/badge/Building-Hyde%20Ecosystem-111111?style=for-the-badge&logo=github&logoColor=white" />
+<a href="#">
+<img src="https://img.shields.io/badge/CTO-Gamify%20IAS-111111?style=for-the-badge&logo=codeforces&logoColor=00ff88" />
+</a>
+<a href="https://github.com">
+<img src="https://img.shields.io/badge/Git%20City-Rank%20%2327-111111?style=for-the-badge&logo=github&logoColor=00ff88" />
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Founder+of+Thenn.in;Building+the+Hyde+Ecosystem;Open+Source+Enthusiast;Turning+Ideas+into+Software" alt="Typing animation" />
-
-<br>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00ff88&style=flat-square" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00ff88&style=flat-square" />
 
 </div>
 
 ---
 
-## `whoami`
+# `$ whoami`
 
-```python
-class Tirth:
-
-    role = "Full-Stack Developer"
-    location = "India"
-
-    currently_building = [
-        "Hyde Ecosystem",
-        "Thenn.in",
-        "Open Source Projects"
-    ]
-
-    currently_learning = [
-        "Advanced Python",
-        "System Design",
-        "Software Architecture"
-    ]
-
-    philosophy = "Build useful things. Make them beautiful. Keep improving."
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   Tirth Joshi                                               │
+│   ───────────────────────────────────────────────────────    │
+│                                                             │
+│   Full-Stack Developer                                      │
+│   CTO @ Gamify IAS                                          │
+│   Founder @ Thenn.in                                        │
+│   Builder @ Hyde Ecosystem                                  │
+│                                                             │
+│   📍 India                                                  │
+│   🏆 Git City Rank #27                                      │
+│   🧠 Currently learning Advanced Python                     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-I'm a developer and founder who enjoys building **products, developer tools, websites, and open-source software**.
+I'm a developer who likes to **build things from zero**.
 
-I care about more than just making something work.
+From websites and business platforms to desktop applications, open-source projects and developer tools — I enjoy taking an idea, figuring out how it should work, and turning it into something people can actually use.
 
-**Good software should feel good to use.**
-
----
-
-## 🚀 What I'm Building
-
-### 🖥️ Hyde Ecosystem
-
-A collection of open-source projects focused on building useful software for everyday users and developers.
-
-Current work includes:
-
-* 🎵 **Hyde Music** — Local-first, open-source music player
-* 🌐 **Hyde Browser** — Privacy-focused browser project
-* 🔐 **Hyde Security** — Security-focused JavaScript tooling
-* 🧩 More Hyde projects in development
-
-> Building software that is useful, open and enjoyable to use.
+I care about **engineering, design and the experience together**.
 
 ---
 
-### ⚡ Thenn.in
+# 🏆 A Few Things I'm Proud Of
 
-**Thenn.in** is my technology company focused on building high-quality digital products and experiences.
+<div align="center">
 
-We work around:
+|     🏅 Achievement     | 💡 What it means                            |
+| :--------------------: | :------------------------------------------ |
+|    **#27 Git City**    | Ranked **27th** in Git City                 |
+|  **CTO — Gamify IAS**  | Leading technology & engineering            |
+| **Founder — Thenn.in** | Building digital products & experiences     |
+|   **Hyde Ecosystem**   | Building open-source software               |
+|     **Open Source**    | Creating and maintaining developer projects |
 
-* Web development
-* Full-stack applications
-* UI/UX
-* Business software
-* Automation
-* Custom digital products
-
-🌐 **[thenn.in](https://thenn.in)**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ What I'm Doing Right Now
+
+```diff
++ Building the Hyde Ecosystem
++ Leading technology at Gamify IAS
++ Growing Thenn.in
++ Building open-source software
++ Exploring advanced Python
++ Designing better developer experiences
+```
+
+---
+
+# 🧪 Hyde Ecosystem
+
+### `Open Source • Software • Experiments`
+
+The **Hyde Ecosystem** is my collection of open-source projects and experiments.
+
+Some of the things I've worked on:
+
+```text
+HYDE
+│
+├── 🎵 Hyde Music
+│   └── Local-first open-source music player
+│
+├── 🌐 Hyde Browser
+│   └── Chromium-based browser project
+│
+├── 🔐 Hyde Security
+│   └── JavaScript security tooling
+│
+└── 🧪 More experiments
+    └── Currently building...
+```
+
+My goal isn't to build another copy of existing software.
+
+**I want to build software I'd actually want to use.**
+
+---
+
+# 🏢 Thenn.in
+
+### `Founder • Technology • Design`
+
+**Thenn.in** is my technology company focused on building digital products, websites and custom software.
+
+We care about:
+
+```text
+QUALITY
+DESIGN
+PERFORMANCE
+ENGINEERING
+EXPERIENCE
+```
+
+🌐 **https://thenn.in**
+
+---
+
+# 🚀 Gamify IAS
+
+### `CTO`
+
+As **CTO at Gamify IAS**, I work on the technology side of the platform — from architecture and development to building and improving the products behind the experience.
+
+```text
+Idea
+  ↓
+Architecture
+  ↓
+Development
+  ↓
+Testing
+  ↓
+Deployment
+  ↓
+Iteration
+```
+
+The interesting part?
+
+**It never really ends.**
+
+---
+
+# 🛠️ My Arsenal
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cs,php,dart,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cs,php,dart" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flutter" />
 </p>
 
-### Backend & Database
+### Backend & Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,python,flask,postgres,mysql,mongodb,supabase,firebase" />
 </p>
 
-### Tools & Platforms
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vercel,netlify,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,docker,vercel,netlify" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=00ff88&icon_color=00ff88&text_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=00ff88&icon_color=00ff88&text_color=ffffff&rank_icon=github" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=00ff88&text_color=ffffff" />
 
 </div>
 
----
-
-## 🔥 Contribution Streak
+<br>
 
 <div align="center">
 
@@ -140,30 +205,44 @@ We work around:
 
 ---
 
-## 🐍 My Contributions
+# 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
 
-## 🌐 Find Me
+# 💻 Currently Learning
+
+```python
+learning = {
+    "language": "Advanced Python",
+    "architecture": "System Design",
+    "focus": "Better Software Architecture",
+    "interest": "Open Source",
+    "obsession": "Building things"
+}
+```
+
+---
+
+# 🌐 Connect
 
 <div align="center">
 
 <a href="https://thenn.in">
-<img src="https://img.shields.io/badge/Website-Thenn.in-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black" />
+<img src="https://img.shields.io/badge/Thenn.in-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black" />
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/justtirthjoshi">
-<img src="https://img.shields.io/badge/Instagram-justtirthjoshi-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
@@ -172,12 +251,10 @@ We work around:
 
 <div align="center">
 
-### 💭
-
-**"Build it. Break it. Learn from it. Build it better."**
+### `BUILD → BREAK → LEARN → REBUILD`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:000000&height=120&section=footer" />
 
 </div>
