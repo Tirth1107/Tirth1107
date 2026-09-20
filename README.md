@@ -1,328 +1,141 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101010,100:00ff88&height=190&section=header&text=TIRTH%20JOSHI&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Developer%20%E2%80%A2%20CTO%20%E2%80%A2%20Founder%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101010,100:00ff88&height=190&section=header&text=TIRTH%20JOSHI&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=A%20coder%20building%20his%20own%20world&descAlignY=60&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2400&pause=700&color=00FF88&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+from+India;CTO+%40+Gamify+IAS;Founder+%40+Thenn.in;Running+Hyde+Open+Source;Building+Free+%26+Open+Source+Software;Turning+Ideas+into+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=00FF88&center=true&vCenter=true&width=850&lines=Just+a+coder+with+too+many+ideas;Building+my+own+little+world+with+code;Turning+ideas+into+software;Creating+things+I+wish+existed;Building+Hyde+Open+Source;One+project+at+a+time..." />
 
 <br><br>
 
 <a href="https://thenn.in">
 <img src="https://img.shields.io/badge/FOUNDER-Thenn.in-00ff88?style=for-the-badge&logoColor=black" />
 </a>
+
 <a href="https://hydeos.tech">
-<img src="https://img.shields.io/badge/FOUNDER-Hyde%20Open%20Source-111111?style=for-the-badge&logo=github&logoColor=00ff88" />
+<img src="https://img.shields.io/badge/RUNNING-Hyde%20Open%20Source-111111?style=for-the-badge&logo=github&logoColor=00ff88" />
 </a>
+
 <a href="#">
 <img src="https://img.shields.io/badge/CTO-Gamify%20IAS-111111?style=for-the-badge&logoColor=00ff88" />
 </a>
+
 <a href="#">
 <img src="https://img.shields.io/badge/Git%20City-%2327-111111?style=for-the-badge&logo=github&logoColor=00ff88" />
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00ff88&style=flat-square" />
 
 </div>
 
 ---
 
-# `> whoami`
+## `> whoami`
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
-│  TIRTH JOSHI                                                 │
+│                         TIRTH JOSHI                          │
 │                                                              │
-│  Full-Stack Developer                                        │
-│  CTO @ Gamify IAS                                             │
-│  Founder @ Thenn.in                                           │
-│  Running Hyde Open Source                                     │
+│       just a coder trying to build his own little world      │
 │                                                              │
-│  🇮🇳 India                                                     │
-│  🏆 Git City Rank #27                                         │
+│       ideas → code → products → experiments                  │
 │                                                              │
-│  Building software.                                          │
-│  Breaking things.                                             │
-│  Learning.                                                    │
-│  Building them better.                                       │
+│       Founder @ Thenn.in                                     │
+│       CTO @ Gamify IAS                                       │
+│       Running Hyde Open Source                               │
+│       Git City #27                                           │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
-I'm a **full-stack developer, CTO, founder and open-source builder** from India.
+I don't really have a perfect definition for what I do.
 
-I enjoy building things that go from **an idea → a prototype → a real product**.
+**I just like to code.**
 
-My interests sit somewhere between:
+I build things that come to my mind, turn random ideas into actual software, break things, rebuild them, and occasionally wonder why I started the project in the first place.
 
-`Software Engineering` · `Product Development` · `Open Source` · `UI/UX` · `Developer Tools`
+Somewhere along the way, those projects became **companies, products and open-source software**.
+
+I'm basically trying to build a little world of my own — **one line of code at a time.**
 
 ---
 
-# 🧬 Hyde Open Source
-
-## `Free software. Open source. Built for everyone.`
-
-<a href="https://hydeos.tech">
-
-### HYDE
-
-</a>
-
-**Hyde Open Source** is an organization I run focused on building and maintaining **free and open-source tools and software**.
-
-The idea is simple:
-
-> **Useful software shouldn't always need a price tag.**
-
-Hyde is not one project.
-
-It's an **ecosystem**.
+## 🌌 Building My Own World
 
 ```text
-                         HYDE
-                          │
-              ┌───────────┴───────────┐
-              │                       │
-        Hyde Open Source          hydeos.tech
-              │
-      ┌───────┼────────┬───────────────┐
-      │       │        │               │
-      ▼       ▼        ▼               ▼
-   Music   Security   Browser       More...
-      │       │        │
-      ▼       ▼        ▼
-   Player    JS      Browser
-            Tools    Project
+                         TIRTH
+                           │
+            ┌──────────────┼──────────────┐
+            │              │              │
+            ▼              ▼              ▼
+        THENN.IN          HYDE        GAMIFY IAS
+            │              │              │
+            ▼              ▼              ▼
+       Technology     Open Source     Technology
+        & Design       & Software      & Products
+                           │
+              ┌────────────┼────────────┐
+              │            │            │
+              ▼            ▼            ▼
+          🎵 Music     🔐 Security   🌐 Browser
 ```
 
-### 🎵 Hyde Music
+Every project is another piece of that world.
 
-A **local-first, open-source music player** designed around a better listening experience.
+Some become products.
 
-Features and work around:
+Some become experiments.
 
-* Local music
-* Playlists
-* YouTube integration
-* Multiple audio formats
-* Visualizer
-* Desktop application
-* Android development
-* Backup & synchronization
+Some teach me what **not** to do.
 
-**Open source. Free to use.**
+And some somehow become something much bigger than I originally imagined.
 
 ---
 
-### 🔐 Hyde Security JS
+## 🧬 Hyde Open Source
 
-A JavaScript security-focused library from the Hyde ecosystem.
+### `Building software that belongs to everyone.`
 
-Built to make security-related functionality easier to integrate into JavaScript projects.
+I run **Hyde Open Source**, an organization focused on creating **free and open-source tools and software**.
 
-**npm · JavaScript · Open Source**
+Hyde isn't just one application.
 
----
+It's an ecosystem I'm slowly building.
 
-### 🌐 Hyde Browser
+**Hyde Music. Hyde Security JS. Hyde Browser. And more to come.**
 
-An open-source browser project exploring a more controlled and customizable browsing experience.
+🌐 **[hydeos.tech](https://hydeos.tech)**
 
-```text
-Browser
-├── Chromium
-├── Privacy
-├── Custom Experience
-└── Hyde Ecosystem
-```
+> Build it. Open it. Share it.
 
 ---
 
-### 🧪 And More...
+## 🏢 Thenn.in
 
-Hyde is still growing.
+### `One of the worlds I'm building.`
 
-New tools, experiments and projects are being added to the ecosystem.
+I'm the founder of **Thenn.in**, where I work on digital products, software and experiences.
 
-**Explore → [hydeos.tech](https://hydeos.tech)**
-
----
-
-# 🏢 Thenn.in
-
-### `Founder`
-
-**Thenn.in** is my technology company focused on creating **high-quality digital products and experiences**.
-
-We work across:
-
-```text
-Web Development
-Full-Stack Applications
-UI / UX
-Business Software
-Automation
-Custom Products
-```
-
-I believe software shouldn't just **work**.
-
-It should be **well designed, fast and enjoyable to use**.
+It's where technology meets the part of me that cares way too much about **how things look and feel**.
 
 🌐 **[thenn.in](https://thenn.in)**
 
 ---
 
-# 🚀 Gamify IAS
+## 🚀 Gamify IAS
 
 ### `CTO`
 
-I'm also the **CTO at Gamify IAS**, working on the technology and engineering side of the platform.
-
-My work involves turning product ideas into working systems and continuously improving the technology behind them.
-
-```text
-PRODUCT IDEA
-      ↓
-ARCHITECTURE
-      ↓
-ENGINEERING
-      ↓
-TESTING
-      ↓
-DEPLOYMENT
-      ↓
-ITERATION
-      ↓
-BETTER PRODUCT
-```
+I'm also the **CTO at Gamify IAS**, working on the technology behind the platform and helping turn ideas into actual products.
 
 ---
 
-# 🏆 Git City
+## 🏆 Git City
 
 <div align="center">
 
-## `#27`
+# `#27`
 
-### Git City Rank
+### Git City
 
-</div>
-
-One of the things I'm proud of is being **ranked #27 in Git City**.
-
-For me, it's less about the number and more about what sits behind it:
-
-**building consistently.**
-
----
-
-# ⚙️ Tech I Work With
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cs,php,dart" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flutter" />
-</p>
-
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,python,flask,postgres,mysql,mongodb,supabase,firebase" />
-</p>
-
-### Tools & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,docker,vercel,netlify" />
-</p>
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=00ff88&icon_color=00ff88&text_color=ffffff&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=00ff88&text_color=ffffff" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
-
-</div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
-</div>
-
----
-
-# 🧠 Currently Learning
-
-```python
-learning = {
-    "python": "advanced",
-    "system_design": True,
-    "software_architecture": True,
-    "open_source": True,
-    "product_building": True,
-}
-```
-
-Still learning.
-
-Still experimenting.
-
-Still building.
-
----
-
-# 🌐 Find Me
-
-<div align="center">
-
-<a href="https://hydeos.tech">
-<img src="https://img.shields.io/badge/HYDE%20OPEN%20SOURCE-00ff88?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-<a href="https://thenn.in">
-<img src="https://img.shields.io/badge/THENN.IN-111111?style=for-the-badge&logo=googlechrome&logoColor=00ff88" />
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/justtirthjoshi">
-<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### `BUILD → BREAK → LEARN → REBUILD`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:101010,100:050505&height=130&section=footer" />
+**Just a number on the internet.
+But a reminder to keep building.**
 
 </div>
